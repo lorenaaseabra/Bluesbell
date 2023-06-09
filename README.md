@@ -1,8 +1,8 @@
 # Bluesbell
-##Sistema de Controle Financeiro em C
+## Sistema de Controle Financeiro em C
 Este repositório contém um código em C para um sistema de controle financeiro. O sistema permite que os usuários cadastrem-se, façam login, registrem entradas e saídas financeiras, gerem relatórios de gastos por categoria e tenham acesso aos dados salvos.
 
-##Funcionalidades
+## Funcionalidades
 * Cadastro de usuários: Os usuários podem se cadastrar fornecendo seu nome, e-mail e senha.
 * Login: Os usuários podem fazer login no sistema usando seu e-mail e senha.
 * Registro de entradas: Os usuários podem registrar valores de entrada financeira.
